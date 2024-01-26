@@ -1,14 +1,5 @@
 # STARTER-jpa03
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa03-winzuo.dokku-05.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
 Running at: <https://jpa03-winzuo.dokku-05.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
